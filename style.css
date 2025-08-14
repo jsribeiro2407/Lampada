@@ -15,6 +15,7 @@
      grid-auto-flow: column;
      grid-auto-columns: 33vw; 
      color: rgb(239, 235, 228);
+     padding-left: 33%;
  }
  
  section{
